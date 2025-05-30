@@ -1,6 +1,6 @@
 # Bank_Loan_Analysis_using_MySQL_and_Power-BI
 ## Objective
-In this project, the Bank Loan Analysis Project integrates SQL-based analysis with a dynamic Power BI dashboard to visualize and interpret patterns in loan applications. The project focuses on identifying repayment behaviours, loan preferences, and risk profiles, helping institutions strengthen credit evaluation and market expansion strategies.
+In this project, the Bank Loan Analysis Project utilizes SQL-based analysis and Power BI dashboard to interpret and visualize patterns in loan applications. The project focuses on identifying repayment behaviours, loan preferences, and risk profiles, helping institutions strengthen credit evaluation and market expansion strategies.
 ## Dataset
 - Source: kaggle.com
 - Volume: 38,000+ loan records
